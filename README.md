@@ -1,3 +1,2 @@
 # odin-recipes
-recipe webpage
-My first webpage, i get to portray HTML skills.
+My first webpage, i got to with HTML layout for a recipe website.
